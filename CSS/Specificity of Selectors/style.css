@@ -1,0 +1,27 @@
+/* p{
+    color: blue;
+} */
+
+.para-class{
+    color: brown;
+}
+
+#harsh-para p{
+
+    color: darkgoldenrod;
+}
+
+/* .calling h4{
+    color: darkorange;
+}
+
+.calling p{
+    color: darkorange;
+} */
+
+
+.calling h4,p{
+    color: crimson;
+}
+
+
