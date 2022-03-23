@@ -31,3 +31,21 @@ article{
 #blog-desc{
     color: #0e4b07;
 }
+
+#hover-orange:hover{
+    color: orange;
+    font-size: 55px;
+
+}
+
+
+/* main blog */
+
+h1.h-style{
+    font-family: sans-serif ;
+}
+
+h4.h-style{
+    font-family: monospace ;
+    font-size: 15px;
+}

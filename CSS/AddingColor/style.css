@@ -1,0 +1,9 @@
+div{
+    text-align: center;
+    height:  250px;
+    width: 250px;
+    /* background-color: blueviolet; */
+    /* background-color: #c62be2; */
+    /* background-color: rgba(48, 128, 7, 0.88);*/   /* here the alpha is the opacity(0.88) */
+    background-color: hsla(17, 96%, 36%, 0.95);      /*this is the hsl value of the color*/
+}

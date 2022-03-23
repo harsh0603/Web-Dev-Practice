@@ -1,0 +1,32 @@
+#First-id{
+
+    height: 200px;
+    width: 200px;
+    background-color: coral;
+    /* margin: 4px 10px 20px 30px; */
+    /* margin: auto; /*           /*this will push the element in the horizontal center */
+
+    margin-bottom: 20px;
+    
+
+}
+
+
+
+/* **
+      THIS IS IMPORTANT-> IF WE GIVE SOME VERTICAL MARGINS OF A ELEMENT 
+      AND AND TO ITS VERY NEXT ELEMENT AS WELL THEN THE BOTH MARGIN WILL NOT ADD, BUT THE BEST ONE WILL BE CHOICED
+      
+      
+      Top and bottom margins of elements are sometimes collapsed into a single margin 
+      that is equal to the largest of the two margins.*/
+
+
+
+#Second-id{
+    height: 200px;
+    width: 200px;
+    background-color: blueviolet;
+    margin-left: 20px;
+    margin-top: 50px;
+}

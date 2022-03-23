@@ -1,0 +1,38 @@
+
+
+
+
+#First-id{
+
+    height: 200px;
+    width: 200px;
+    background-color: coral;
+    /* margin: 4px 10px 20px 30px; */
+    /* margin: auto; /*           /*this will push the element in the horizontal center */
+
+    margin-bottom: 20px;
+    padding: 20px 10px 5px;
+    
+
+    
+
+}
+
+
+#inner-id{
+    height: 100px;
+    width: 100px;
+    background-color: forestgreen;
+    /* padding: 10px 5px 15px; */
+    /* margin: 20px 5px 15px; */
+}
+
+
+
+#Second-id{
+    height: 200px;
+    width: 200px;
+    background-color: blueviolet;
+    margin-left: 20px;
+    margin-top: 50px;
+}

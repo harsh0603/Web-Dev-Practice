@@ -1,0 +1,43 @@
+html{
+    font-size: 100px;
+}
+
+
+
+#div1{
+    height: 4rem;   /*this rem work on the font-size of the root(that is the html page, so if change the font-size in the html page then the rem value will adjust according to it.*/
+    /* 75vh;  */
+    /* 200px; */
+    width: 6rem;
+    /* 100vw; */
+    /* 200px; */
+    background-color: blueviolet;
+}
+
+#div2{
+    height: 50%;
+    /* 100px; */
+    width: 50%; 
+    /* 100px; */
+    background-color: cornflowerblue;
+    
+}
+
+#border-div{
+    height: 200px;
+    width: 200px;
+    background-color: darkcyan;
+    /* border-width:  2px 4px 6px; */
+    /* border-width: 4px 8px;   */            /* top,bottom->4px & right,left->6px */
+    /* border-style: solid;
+    border-color: coral; */
+    border: 4px solid brown;
+
+    border-radius: 4px;               /*this is to set the corners of the border to be rounded*/
+
+}
+
+
+#sample-para{
+    border-left: 6px solid chartreuse;
+}
